@@ -1,0 +1,44 @@
+{
+  "name": "charlie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "animate.css": "^3.7.0",
+    "foundation-sites": "^6.5.0",
+    "jquery": "^3.3.1",
+    "parallax-js": "^3.1.0",
+    "slick-carousel": "^1.8.1",
+    "vivus": "^0.4.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.26.3",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-inject": "^4.3.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.9.4",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "babel": {
+    "presets": [
+      "@babel/env"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
